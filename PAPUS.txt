@@ -3,6 +3,7 @@ jajjfdajasfopjfpasdjdsf
 dfsdghfghdsagvdnv
 sdfskfkdsg
 sdgksdfkga
+<<<<<<< HEAD
 sfjaslkfdklasdjf
 asdfkdlñskfd{sñgkdsf
 dsf
@@ -20,3 +21,6 @@ sdfsdf
 sdf
 dsfdfpython es la ley
 
+=======
+ya nada bro
+>>>>>>> 4eecdb691c96220f33192339f05a3cd4b98c6a35
